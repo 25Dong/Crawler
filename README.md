@@ -1,6 +1,6 @@
 # Crawer
 
-这是一个简单的java语言爬虫的Demo
+这是一个基于java语言编写的爬虫Demo
 ===
 用到的技术主要有java.net包下URLConnection，HTTPclient
 
