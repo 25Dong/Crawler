@@ -1,0 +1,211 @@
+0    [main] INFO  01 Dec 2017 16:03:14,594 HttpPost.<init>(66) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+20193 [main] INFO  01 Dec 2017 16:03:34,787 HttpPost.<init>(66) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+0    [main] INFO  01 Dec 2017 16:14:49,443 HttpPost.<init>(66) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+14678 [main] INFO  01 Dec 2017 16:15:04,121 HttpPost.<init>(66) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+153971 [main] INFO  01 Dec 2017 16:17:23,414 HttpPost.getHttpResponseWithURLDirectly(204) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:28:33,983 HttpPost.<init>(67) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+4751 [main] INFO  01 Dec 2017 16:28:38,734 HttpPost.getHttpResponseWithURLDirectly(205) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:30:06,305 HttpPost.<init>(67) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+3    [main] INFO  01 Dec 2017 16:30:06,308 HttpPost.getHttpResponseWithURLDirectly(205) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:40:49,538 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+2    [main] INFO  01 Dec 2017 16:40:49,540 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:41:23,010 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+8936 [main] INFO  01 Dec 2017 16:41:31,946 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:42:19,500 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+6343 [main] INFO  01 Dec 2017 16:42:25,843 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:42:57,571 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+4123 [main] INFO  01 Dec 2017 16:43:01,694 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 16:45:09,526 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+1419 [main] INFO  01 Dec 2017 16:45:10,945 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 17:14:00,184 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+3    [main] INFO  01 Dec 2017 17:14:00,187 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 17:15:43,338 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+3    [main] INFO  01 Dec 2017 17:15:43,341 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 17:15:56,660 HttpPost.<init>(71) - 实例化一个HttPost对象：配置信息是proxy:10.224.1.109:24444
+5332 [main] INFO  01 Dec 2017 17:16:01,992 HttpPost.getHttpResponseWithURLDirectly(209) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  01 Dec 2017 17:25:33,045 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  01 Dec 2017 17:25:33,047 HttpPost.getHttpResponseWithURLDirectly(210) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  04 Dec 2017 08:42:46,742 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+0    [main] INFO  04 Dec 2017 08:44:01,384 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+0    [main] INFO  04 Dec 2017 08:44:14,980 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+10759 [main] INFO  04 Dec 2017 08:44:25,739 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  04 Dec 2017 08:46:13,096 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+0    [main] INFO  04 Dec 2017 08:46:39,501 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+0    [main] INFO  04 Dec 2017 08:50:08,068 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2104 [main] INFO  04 Dec 2017 08:50:10,172 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+8944 [main] INFO  04 Dec 2017 08:50:17,012 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  04 Dec 2017 08:51:21,852 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+52408 [main] INFO  04 Dec 2017 08:52:14,260 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+60152 [main] INFO  04 Dec 2017 08:52:22,004 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  04 Dec 2017 08:54:08,690 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+23977 [main] INFO  04 Dec 2017 08:54:32,667 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  04 Dec 2017 08:56:42,484 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  04 Dec 2017 08:56:42,487 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+71506 [main] INFO  04 Dec 2017 08:57:53,990 HttpPost.getHttpResponseWithURLDirectly(211) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+107663 [main] INFO  04 Dec 2017 08:58:30,147 HttpPost.getHttpResponseWithURLDirectly(212) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+1    [main] INFO  04 Dec 2017 09:20:49,378 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  04 Dec 2017 09:20:49,380 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(192) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  04 Dec 2017 09:21:27,191 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  04 Dec 2017 09:21:27,193 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(192) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  04 Dec 2017 09:23:10,457 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  04 Dec 2017 09:23:10,460 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  04 Dec 2017 09:23:24,752 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+26282 [main] INFO  04 Dec 2017 09:23:51,034 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  04 Dec 2017 09:32:19,503 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  04 Dec 2017 09:32:19,506 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  07 Dec 2017 17:12:55,600 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  07 Dec 2017 17:12:55,602 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.shipmentlink.com/tvs2/jsp/TVS2_InteractiveScheduleRouting.jsp,method: 1
+0    [main] INFO  07 Dec 2017 17:13:12,188 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4056 [main] INFO  07 Dec 2017 17:13:16,244 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.shipmentlink.com/tvs2/jsp/TVS2_InteractiveScheduleRouting.jsp,method: 1
+0    [main] INFO  07 Dec 2017 17:56:40,192 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  07 Dec 2017 17:56:40,194 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.gslltd.com.hk/,method: 1
+0    [main] INFO  08 Dec 2017 08:33:10,717 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  08 Dec 2017 08:33:10,719 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  08 Dec 2017 08:33:23,834 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  08 Dec 2017 08:33:23,836 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  08 Dec 2017 08:34:13,745 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  08 Dec 2017 08:34:13,747 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  08 Dec 2017 08:37:48,450 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  08 Dec 2017 08:37:48,452 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  08 Dec 2017 10:34:05,828 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+14   [main] INFO  08 Dec 2017 10:34:05,842 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  08 Dec 2017 14:50:29,828 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+14   [main] INFO  08 Dec 2017 14:50:29,842 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+476  [main] INFO  08 Dec 2017 14:50:30,304 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+478  [main] INFO  08 Dec 2017 14:50:30,306 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+915  [main] INFO  08 Dec 2017 14:50:30,743 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+915  [main] INFO  08 Dec 2017 14:50:30,743 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1332 [main] INFO  08 Dec 2017 14:50:31,160 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1333 [main] INFO  08 Dec 2017 14:50:31,161 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1674 [main] INFO  08 Dec 2017 14:50:31,502 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1674 [main] INFO  08 Dec 2017 14:50:31,502 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2131 [main] INFO  08 Dec 2017 14:50:31,959 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2131 [main] INFO  08 Dec 2017 14:50:31,959 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2397 [main] INFO  08 Dec 2017 14:50:32,225 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2397 [main] INFO  08 Dec 2017 14:50:32,225 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2668 [main] INFO  08 Dec 2017 14:50:32,496 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2668 [main] INFO  08 Dec 2017 14:50:32,496 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3163 [main] INFO  08 Dec 2017 14:50:32,991 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3163 [main] INFO  08 Dec 2017 14:50:32,991 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3503 [main] INFO  08 Dec 2017 14:50:33,331 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3504 [main] INFO  08 Dec 2017 14:50:33,332 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  08 Dec 2017 14:52:30,812 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  08 Dec 2017 14:52:30,815 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1261 [main] INFO  08 Dec 2017 14:52:32,073 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1263 [main] INFO  08 Dec 2017 14:52:32,075 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1951 [main] INFO  08 Dec 2017 14:52:32,763 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1951 [main] INFO  08 Dec 2017 14:52:32,763 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2671 [main] INFO  08 Dec 2017 14:52:33,483 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2671 [main] INFO  08 Dec 2017 14:52:33,483 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3169 [main] INFO  08 Dec 2017 14:52:33,981 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3169 [main] INFO  08 Dec 2017 14:52:33,981 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3786 [main] INFO  08 Dec 2017 14:52:34,598 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3786 [main] INFO  08 Dec 2017 14:52:34,598 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+4522 [main] INFO  08 Dec 2017 14:52:35,334 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4522 [main] INFO  08 Dec 2017 14:52:35,334 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+5083 [main] INFO  08 Dec 2017 14:52:35,895 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+5084 [main] INFO  08 Dec 2017 14:52:35,896 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+5676 [main] INFO  08 Dec 2017 14:52:36,488 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+5676 [main] INFO  08 Dec 2017 14:52:36,488 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+6792 [main] INFO  08 Dec 2017 14:52:37,604 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+6792 [main] INFO  08 Dec 2017 14:52:37,604 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  08 Dec 2017 15:32:17,018 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  08 Dec 2017 15:32:17,020 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1130 [main] INFO  08 Dec 2017 15:32:18,148 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1132 [main] INFO  08 Dec 2017 15:32:18,150 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1833 [main] INFO  08 Dec 2017 15:32:18,851 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1834 [main] INFO  08 Dec 2017 15:32:18,852 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2722 [main] INFO  08 Dec 2017 15:32:19,740 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2723 [main] INFO  08 Dec 2017 15:32:19,741 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3961 [main] INFO  08 Dec 2017 15:32:20,979 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3961 [main] INFO  08 Dec 2017 15:32:20,979 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+5875 [main] INFO  08 Dec 2017 15:32:22,893 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+5875 [main] INFO  08 Dec 2017 15:32:22,893 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+6828 [main] INFO  08 Dec 2017 15:32:23,846 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+6829 [main] INFO  08 Dec 2017 15:32:23,847 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+9739 [main] INFO  08 Dec 2017 15:32:26,757 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+9739 [main] INFO  08 Dec 2017 15:32:26,757 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+10772 [main] INFO  08 Dec 2017 15:32:27,790 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+10772 [main] INFO  08 Dec 2017 15:32:27,790 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+12625 [main] INFO  08 Dec 2017 15:32:29,643 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+12626 [main] INFO  08 Dec 2017 15:32:29,644 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  12 Dec 2017 10:46:02,865 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  12 Dec 2017 10:46:02,867 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1628 [main] INFO  12 Dec 2017 10:46:04,493 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1630 [main] INFO  12 Dec 2017 10:46:04,495 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2109 [main] INFO  12 Dec 2017 10:46:04,974 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2110 [main] INFO  12 Dec 2017 10:46:04,975 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3829 [main] INFO  12 Dec 2017 10:46:06,694 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3830 [main] INFO  12 Dec 2017 10:46:06,695 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+4578 [main] INFO  12 Dec 2017 10:46:07,443 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4578 [main] INFO  12 Dec 2017 10:46:07,443 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+6305 [main] INFO  12 Dec 2017 10:46:09,170 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+6305 [main] INFO  12 Dec 2017 10:46:09,170 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+6691 [main] INFO  12 Dec 2017 10:46:09,556 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+6692 [main] INFO  12 Dec 2017 10:46:09,557 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+7633 [main] INFO  12 Dec 2017 10:46:10,498 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+7633 [main] INFO  12 Dec 2017 10:46:10,498 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+9060 [main] INFO  12 Dec 2017 10:46:11,925 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+9060 [main] INFO  12 Dec 2017 10:46:11,925 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+9620 [main] INFO  12 Dec 2017 10:46:12,485 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+9620 [main] INFO  12 Dec 2017 10:46:12,485 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  12 Dec 2017 10:47:18,350 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  12 Dec 2017 10:47:18,352 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+651  [main] INFO  12 Dec 2017 10:47:19,001 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+654  [main] INFO  12 Dec 2017 10:47:19,004 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1194 [main] INFO  12 Dec 2017 10:47:19,544 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1194 [main] INFO  12 Dec 2017 10:47:19,544 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1483 [main] INFO  12 Dec 2017 10:47:19,833 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1483 [main] INFO  12 Dec 2017 10:47:19,833 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+1923 [main] INFO  12 Dec 2017 10:47:20,273 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+1923 [main] INFO  12 Dec 2017 10:47:20,273 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+2514 [main] INFO  12 Dec 2017 10:47:20,864 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2514 [main] INFO  12 Dec 2017 10:47:20,864 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3105 [main] INFO  12 Dec 2017 10:47:21,455 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3105 [main] INFO  12 Dec 2017 10:47:21,455 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+3728 [main] INFO  12 Dec 2017 10:47:22,078 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3728 [main] INFO  12 Dec 2017 10:47:22,078 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+4250 [main] INFO  12 Dec 2017 10:47:22,600 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4250 [main] INFO  12 Dec 2017 10:47:22,600 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+4534 [main] INFO  12 Dec 2017 10:47:22,884 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4535 [main] INFO  12 Dec 2017 10:47:22,885 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  12 Dec 2017 10:47:34,252 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+20118 [main] INFO  12 Dec 2017 10:47:54,370 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://o-www.yangming.com/e-service/schedule/PointToPoint.aspx,method: 1
+0    [main] INFO  12 Dec 2017 13:34:54,187 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  12 Dec 2017 13:34:54,189 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: https://www.goldstarline.com/p2p.aspx?hidSearch=true&hidFromHomePage=false&hidSearchType=4&id=166&l=4&txtPOL=HKHKG&txtPOD=SGSIN&rb=Dep&txtDateFrom=07/12/2017&txtDateTo=18/01/2018,method: 1
+0    [main] INFO  12 Dec 2017 14:44:49,998 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  12 Dec 2017 14:44:50,000 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.zim.com/pages/findyourroute.aspx?origincode=HKHKG%3b10&origincodetext=Hong+Kong+--+Hong+Kong&destcode=SGSIN%3b10&destcodetext=Singapore+--+Singapore&fromdate=12%2f12%2f2017&mode=1&searchdimention=0&todate=23%2f01%2f2018&schedule=view0,method: 1
+0    [main] INFO  21 Dec 2017 13:20:51,486 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+16   [main] INFO  21 Dec 2017 13:20:51,502 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  21 Dec 2017 13:23:20,327 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+5    [main] INFO  21 Dec 2017 13:23:20,332 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+17954 [main] INFO  21 Dec 2017 13:23:38,281 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+17959 [main] INFO  21 Dec 2017 13:23:38,286 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+27874 [main] INFO  21 Dec 2017 13:23:48,201 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+42369 [main] INFO  21 Dec 2017 13:24:02,696 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  21 Dec 2017 13:31:00,689 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4    [main] INFO  21 Dec 2017 13:31:00,693 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+9179 [main] INFO  21 Dec 2017 13:31:09,868 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+13668 [main] INFO  21 Dec 2017 13:31:14,357 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+40409 [main] INFO  21 Dec 2017 13:31:41,098 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+110661 [main] INFO  21 Dec 2017 13:32:51,350 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  21 Dec 2017 13:39:50,786 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+2    [main] INFO  21 Dec 2017 13:39:50,788 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+327  [main] INFO  21 Dec 2017 13:39:51,113 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+329  [main] INFO  21 Dec 2017 13:39:51,115 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  21 Dec 2017 13:40:29,974 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+4    [main] INFO  21 Dec 2017 13:40:29,978 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+8458 [main] INFO  21 Dec 2017 13:40:38,432 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+12378 [main] INFO  21 Dec 2017 13:40:42,352 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/tradeLaneForm.jsp?date=20170809&isFrequentlyUsed1=N&fromTag=SSL&chk=N&origin_nation=HK&sort=R&listopt=L&first=Y&location_type=on&isFrequentlyUsed2=N&changeLocation=Y&destination_nation=SG,method: 1
+0    [main] INFO  21 Dec 2017 16:41:07,044 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+3    [main] INFO  21 Dec 2017 16:41:07,047 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  22 Dec 2017 10:10:53,957 HttpPost.<init>(72) - proxy:10.224.1.109:24444
+5    [main] INFO  22 Dec 2017 10:10:53,962 HttpPost.getHttpResponseWithURLDirectlyAndURIParameter(191) - getHttpResponseWithURLDirectly(),requestURL: http://www.hmm21.com/ebiz/schedule/getSailingSchedules.jsp,method: 0
+0    [main] INFO  22 Dec 2017 14:49:15,450 HTTPClientProxy.downloadingImgByHttpClient(87) - downing success and Path isD:\aaMARK\aa
+0    [main] INFO  25 Dec 2017 08:57:10,689 HTTPClientProxy.downloadingImgByHttpClient(89) - downing success and Path isD:\aaMARK\aa
+0    [main] WARN  25 Dec 2017 11:19:57,307 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
+0    [main] WARN  25 Dec 2017 11:20:34,892 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
+0    [main] WARN  25 Dec 2017 11:20:52,530 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
+0    [main] WARN  25 Dec 2017 11:31:44,139 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
+0    [main] WARN  25 Dec 2017 11:34:56,445 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
+0    [main] WARN  25 Dec 2017 11:40:55,452 ResponseProcessCookies.processCookies(122) - Cookie rejected [t="86f7985adcaa9d1faa3d5541506f6d43", version:0, domain:renren.com, path:/xtalk/, expiry:null] Illegal 'path' attribute "/xtalk/". Path of origin: "/PLogin.do"
