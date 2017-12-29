@@ -6,5 +6,5 @@
 ![logic](https://github.com/25Dong/Crawer/blob/master/image/info.png)
 
 <br><br>
-主要的包结构
+主要的包结构<br>
 ![logic](https://github.com/25Dong/Crawer/blob/master/image/info2.png)
