@@ -3,13 +3,15 @@ package com.mark.Crawer;
 import com.mark.common.StringUtil;
 import com.mark.robotics.Crawer;
 
-public class CrawerHTTPClientGetDemo extends Crawer{
+public class  CrawerHTTPClientGetDemo extends Crawer{
 
 	public static void main(String[] args) throws Exception {
-		Class crawerclass = null;
-		crawerclass = Class.forName("com.mark.Crawer."+"CrawerHTTPGetDemo");
-		Crawer crawer = (Crawer) crawerclass.newInstance();
-		crawer.executeTask();
+//		Class crawerclass = null;
+//		crawerclass = Class.forName("com.mark.Crawer."+"CrawerHTTPGetDemo");
+//		Crawer crawer = (Crawer) crawerclass.newInstance();
+//		crawer.executeTask();
+		CrawerHTTPClientGetDemo test = new  CrawerHTTPClientGetDemo();
+		test.executeTask();
 	}
 
 	@Override
