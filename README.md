@@ -4,3 +4,7 @@
 ===
 用到的技术主要有java.net包下URLConnection，HTTPclient
 ![logic](https://github.com/25Dong/Crawer/blob/master/image/info.png)
+
+<br><br>
+主要的包结构
+![logic](https://github.com/25Dong/Crawer/blob/master/image/info2.png)
